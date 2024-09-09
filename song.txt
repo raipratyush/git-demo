@@ -6,3 +6,12 @@ on this their chosen battlefield
 
 From the lines 
 Shield by Shield
+
+new content here 
+and here also(check out)
+
+more content
+
+new content here demo for git commit
+
+Git revert tutorial
